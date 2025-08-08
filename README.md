@@ -1,5 +1,4 @@
-<pre> ``` This is plain text in a code box Multiple lines supported ``` </pre>
-```
+# zuppit```
 # Permission Scanner & Fixer (Universal)
 
 ## 1. Purpose
