@@ -1,3 +1,4 @@
+<pre> ``` This is plain text in a code box Multiple lines supported ``` </pre>
 ```
 # Permission Scanner & Fixer (Universal)
 
